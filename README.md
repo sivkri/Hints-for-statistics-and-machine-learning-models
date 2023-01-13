@@ -4,8 +4,8 @@ which statistical test to be used
 
 _Categorical (Qualitative) String_
 
-1. Nominal (Gender) [Factor]/ MAIN EFFECT
-
+1. Nominal (Gender) aka Factor/ Genotype  [MAIN EFFECT]
+    levels - WT, Mutant
 2. Ordinal (size )
 
 _Numerical (Quantitative) Float/ Integer_
