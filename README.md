@@ -12,7 +12,7 @@ _Categorical (Qualitative) String_
 
 _Numerical (Quantitative) Float/ Integer_
 
-1. Continuous (Decimal)
+1. Continuous (Decimal) aka Age
 
 2. Discrete (Whole)
 
