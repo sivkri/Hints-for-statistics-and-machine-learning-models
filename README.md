@@ -31,7 +31,7 @@ _Numerical (Quantitative) Float/ Integer_
 
 1. Supervised Learning (labeled training data)- Class or Label (Classification)
 
-2. Unsupervised Learning (hidden structure from "unlabeled" data)- Numeric or Continuous (Clustering / Recommendation)
+2. Unsupervised Learning (hidden structure from "unlabeled" data)- Numeric or Continuous (Clustering / Regression)
 
 ## Prediction
 
