@@ -27,3 +27,8 @@ _Numerical (Quantitative) Float/ Integer_
 6. Type of Analysis
 
 
+# Machine Learning
+
+Supervised Learning - Class or Label (Classification)
+
+Unsupervised Learning - Numeric or Continuous (Clustering / Recommendation)
